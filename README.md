@@ -81,16 +81,9 @@ OS:Android.v10 ✔ (IOS ❌)
 ## 프로젝트 기여
 
 
-1. 데이터 추출 ✔
-2. Djnago 백엔드 작성 ✔
+1. 데이터 추출
+2. Django 백엔드 작성 ✔
 3. 프론트엔드 전반적인 기여 ✔
-
-
-
-<!-- 연락처 -->
-## 연락처
-
-My Name - [@my_email](https://dldydduq456.com/your_username) - dldydduq456@naver.com
 
 
 <!-- 관련 docs -->
