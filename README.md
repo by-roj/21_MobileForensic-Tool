@@ -7,7 +7,7 @@
   </a>
   <h3 align="center">K-shield.Jr</h3>
   <p align="center">
-    K-shield.Jr 6기 사고분석대응 팀 프로젝트
+    K-shield.Jr 보안사고 분석대응 6기 팀 프로젝트
     <br />
 </p>
 
