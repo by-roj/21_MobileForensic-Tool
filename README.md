@@ -89,14 +89,14 @@ OS:Android.v10 ✔ (IOS ❌)
 
 <!-- 관련 docs -->
 ## 관련 docs
-* [python](https://docs.python.org/3/)
+* [Python](https://docs.python.org/3/)
 * [Django](https://docs.djangoproject.com/ko/3.2/intro/)
-* [jQuery](https://api.jquery.com/)
-* [googlemap-Api](https://developers.google.com/maps/documentation/javascript/overview)
+* [JQuery](https://api.jquery.com/)
+* [GoogleMap-Api](https://developers.google.com/maps/documentation/javascript/overview)
 * [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-* [html](https://developer.mozilla.org/ko/docs/Web/API/HTMLDocument)
-* [javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
-* [css](https://developer.mozilla.org/ko/docs/Web/CSS)
+* [Html](https://developer.mozilla.org/ko/docs/Web/API/HTMLDocument)
+* [Javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+* [CSS](https://developer.mozilla.org/ko/docs/Web/CSS)
 * [Sqllite3](https://docs.python.org/3/library/sqlite3.html)
 * [Qt5](https://doc.qt.io/qtforpython/)
 
