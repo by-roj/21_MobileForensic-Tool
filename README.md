@@ -18,10 +18,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#-project-contents">Project Contents</a>
+      <a href="#-Project-Contents">Project Contents</a>
     </li>
     <li>
-      <a href="#-before-start">Before Start</a>
+      <a href="#-Before-Start">Before Start</a>
       <ul>
         <li><a href="#Dependency-Solution">Dependency Solution</a></li>
         <li><a href="#Google-API-Key-Issuance">Google API Key Issuance</a></li>
