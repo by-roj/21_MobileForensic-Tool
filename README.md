@@ -18,19 +18,19 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="# Project Contents">Project Contents</a>
+      <a href="#-project-contents">Project Contents</a>
     </li>
     <li>
-      <a href="#Before Start">Before Start</a>
+      <a href="#-before-start">Before Start</a>
       <ul>
         <li><a href="#Dependency-Solution">Dependency Solution</a></li>
         <li><a href="#Google-API-Key-Issuance">Google API Key Issuance</a></li>
       </ul>
     </li>
-    <li><a href="#Purpose-of-Use">Purpose of Use</a></li>
-    <li><a href="#Project-Contribution">Project Contribution</a></li>
-    <li><a href="#Contacts">Contacts</a></li>
-    <li><a href="#Related-Docs">Related Docs</a></li>
+    <li><a href="#-Purpose-of-Use">Purpose of Use</a></li>
+    <li><a href="#-Project-Contribution">Project Contribution</a></li>
+    <li><a href="#-Contacts">Contacts</a></li>
+    <li><a href="#-Related-Docs">Related Docs</a></li>
   </ol>
 </details>
 
