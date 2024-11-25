@@ -18,7 +18,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Project-Contents">Project Contents</a>
+      <a href="# Project Contents">Project Contents</a>
     </li>
     <li>
       <a href="#Before Start">Before Start</a>
