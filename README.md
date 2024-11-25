@@ -37,7 +37,7 @@
 <br>
 
 <!-- ABOUT THE PROJECT -->
-## Project Contents
+## ◻ Project Contents
 Provide mobile forensics users with a free, easy-to-see forensics visualization tools</br>
 OS: Android.v10 ✔ (IOS ❌)
 <img src="images/screen1.PNG" >
@@ -51,7 +51,7 @@ OS: Android.v10 ✔ (IOS ❌)
 <br>
 
 <!-- GETTING STARTED -->
-## Before Start
+## ◻ Before Start
 
 ### Dependency Solution
 
@@ -71,14 +71,14 @@ OS: Android.v10 ✔ (IOS ❌)
 <br>
 
 <!-- 사용 용도 -->
-## Purpose of Use
+## ◻ Purpose of Use
 
 Only for security research and analysis
 
 <br>
 
 <!-- 프로젝트 기여 -->
-## Project Contribution
+## ◻ Project Contribution
 
 
 1. Data research and planning ✔
@@ -89,7 +89,7 @@ Only for security research and analysis
 <br>
 
 <!-- 관련 docs -->
-## Related Docs
+## ◻ Related Docs
 * [Python](https://docs.python.org/3/)
 * [Django](https://docs.djangoproject.com/ko/3.2/intro/)
 * [JQuery](https://api.jquery.com/)
