@@ -18,26 +18,26 @@
   <summary>목차</summary>
   <ol>
     <li>
-      <a href="#프로젝트-내용">프로젝트 내용</a>
+      <a href="#-프로젝트-내용">프로젝트 내용</a>
     </li>
     <li>
-      <a href="#시작전">시작 전</a>
+      <a href="#-시작-전">시작 전</a>
       <ul>
         <li><a href="#의존성-설치">의존성 설치</a></li>
         <li><a href="#Google-API-키-발급">Google API 키 발급</a></li>
       </ul>
     </li>
-    <li><a href="#사용-용도">사용 용도</a></li>
-    <li><a href="#프로젝트-기여">프로젝트 기여</a></li>
-    <li><a href="#연락처">연락처</a></li>
-    <li><a href="#관련-Docs">관련 Docs</a></li>
+    <li><a href="#-사용-용도">사용 용도</a></li>
+    <li><a href="#-프로젝트-기여">프로젝트 기여</a></li>
+    <li><a href="#-연락처">연락처</a></li>
+    <li><a href="#-관련-Docs">관련 Docs</a></li>
   </ol>
 </details>
 
 <br>
 
 <!-- ABOUT THE PROJECT -->
-## 프로젝트 내용
+## ◻ 프로젝트 내용
 모바일 포렌식을 이용하는 사람들에게 보기 편한 무료의 포렌식 시각화 툴을 제공하는 것</br>
 OS: Android.v10 ✔ (IOS ❌)
 <img src="images/screen1.PNG" >
@@ -51,7 +51,7 @@ OS: Android.v10 ✔ (IOS ❌)
 <br>
 
 <!-- GETTING STARTED -->
-## 시작 전
+## ◻ 시작 전
 
 ### 의존성 설치
 
@@ -71,14 +71,14 @@ OS: Android.v10 ✔ (IOS ❌)
 <br>
 
 <!-- 사용 용도 -->
-## 사용 용도
+## ◻ 사용 용도
 
 ‼보안 목적으로만 사용해주세요‼
 
 <br>
 
 <!-- 프로젝트 기여 -->
-## 프로젝트 기여
+## ◻ 프로젝트 기여
 
 <br>
 
@@ -90,7 +90,7 @@ OS: Android.v10 ✔ (IOS ❌)
 <br>
 
 <!-- 관련 docs -->
-## 관련 Docs
+## ◻ 관련 Docs
 * [Python](https://docs.python.org/3/)
 * [Django](https://docs.djangoproject.com/ko/3.2/intro/)
 * [JQuery](https://api.jquery.com/)
